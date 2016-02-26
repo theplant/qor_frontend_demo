@@ -19,6 +19,7 @@ Basic Points basically based on the value of your code, but there are some **rul
 * Detailed Bug Report
 * Boring but needs to be done
 * Help external developers by writing documents, blogs, reply their questions, resolve their problems
+* Suggestions to make above rules more fair, save my manage time
 
 ---
 
