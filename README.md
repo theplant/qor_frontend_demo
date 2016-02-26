@@ -16,6 +16,7 @@ Basic Points basically based on the value of your code, but there are some **rul
 * Good documents
 * Good Test Converage
 * Beautiful & Usability
+* Detailed Bug Report
 * Boring but needs to be done
 * Help external developers by writing documents, blogs, reply their questions, resolve their problems
 
